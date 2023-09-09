@@ -7,4 +7,11 @@ var doYouLoveMe = true;
 // console.log(typeof(doYouLoveMe), doYouLoveMe);
 
 var fullName = 'Abdul Kader';
-console.log(fullName);
+// console.log(fullName);
+var PIE = 3.1416;
+// console.log(PIE);
+
+var moneyOfLupom = 200;
+var moneyOfKader = 500;
+var total = moneyOfLupom + moneyOfKader;
+console.log(total);
